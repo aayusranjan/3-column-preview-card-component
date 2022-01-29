@@ -76,6 +76,10 @@ button{
   cursor: pointer;
 }
 
+button:hover {
+  background: transparent;
+  color: var(--off-white);
+}
 .sedans button {
   color: var(--prim-orange);
 }
